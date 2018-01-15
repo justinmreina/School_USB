@@ -1,0 +1,14 @@
+Data
+	Media	
+	Library
+	Device Setup (Volume, etc.)
+
+Actions
+	Play
+	Pause
+	Stop
+	Shuffle
+	Volume Change
+
+Notes
+	Often times actions are elements of access or modification to data

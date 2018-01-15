@@ -1,0 +1,357 @@
+16:24:23 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+clang++ -O0 -emit-llvm -g3 -Wall -c -fmessage-length=0 -o CppTemplate.bc "..\\CppTemplate.cpp" 
+Cannot run program "clang++": Launching failed
+
+Error: Program "clang++" not found in PATH
+PATH=[C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\MinGW\msys\1.0\usr\bin;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\MATLAB\R2016b\bin;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\ArcGIS\Bin;C:\Users\jmreina\AppData\Local\Microsoft\WindowsApps;;C:\eclipse]
+
+16:24:40 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+clang++ -O0 -emit-llvm -g3 -Wall -c -fmessage-length=0 -o CppTemplate.bc "..\\CppTemplate.cpp" 
+Cannot run program "clang++": Launching failed
+
+Error: Program "clang++" not found in PATH
+PATH=[C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\MinGW\msys\1.0\usr\bin;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\MATLAB\R2016b\bin;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\ArcGIS\Bin;C:\Users\jmreina\AppData\Local\Microsoft\WindowsApps;;C:\eclipse]
+
+16:25:52 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+clang++ -O0 -emit-llvm -g3 -Wall -c -fmessage-length=0 -o CppTemplate.bc "..\\CppTemplate.cpp" 
+Cannot run program "clang++": Launching failed
+
+Error: Program "clang++" not found in PATH
+PATH=[C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\MinGW\msys\1.0\usr\bin;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\MATLAB\R2016b\bin;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\ArcGIS\Bin;C:\Users\jmreina\AppData\Local\Microsoft\WindowsApps;;C:\eclipse]
+
+16:26:05 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+clang++ -O0 -emit-llvm -g3 -Wall -c -fmessage-length=0 -o CppTemplate.bc "..\\CppTemplate.cpp" 
+Cannot run program "clang++": Launching failed
+
+Error: Program "clang++" not found in PATH
+PATH=[C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\MinGW\msys\1.0\usr\bin;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\MATLAB\R2016b\bin;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\ArcGIS\Bin;C:\Users\jmreina\AppData\Local\Microsoft\WindowsApps;;C:\eclipse]
+
+16:26:07 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+clang++ -O0 -emit-llvm -g3 -Wall -c -fmessage-length=0 -o CppTemplate.bc "..\\CppTemplate.cpp" 
+Cannot run program "clang++": Launching failed
+
+Error: Program "clang++" not found in PATH
+PATH=[C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\MinGW\msys\1.0\usr\bin;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\MATLAB\R2016b\bin;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\ArcGIS\Bin;C:\Users\jmreina\AppData\Local\Microsoft\WindowsApps;;C:\eclipse]
+
+16:26:38 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o CppTemplate.o "..\\CppTemplate.cpp" 
+g++ -o CppTemplate CppTemplate.o 
+Info: Nothing to build for CppTemplate
+16:30:02 **** Rebuild of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+16:30:14 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+16:31:14 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+16:31:26 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp: In function 'int main()':
+..\TimeExample.cpp:23:7: warning: variable 't' set but not used [-Wunused-but-set-variable]
+  Time t = Time();
+       ^
+g++ -o TimeExample.exe TimeExample.o 
+16:31:31 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:37:15 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp: In function 'int main()':
+..\TimeExample.cpp:25:2: error: 't' was not declared in this scope
+  t.print();
+  ^
+16:37:20 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+16:41:52 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:42:02 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:43:35 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:44:04 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp:29:10: warning: missing terminating " character
+  cout << "\n\n;
+          ^
+..\TimeExample.cpp:29:10: error: missing terminating " character
+  cout << "\n\n;
+          ^~~~~~
+16:44:08 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:44:31 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:44:32 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:44:41 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:44:50 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:45:05 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp:30:10: warning: missing terminating " character
+  cout << "1234;
+          ^
+..\TimeExample.cpp:30:10: error: missing terminating " character
+  cout << "1234;
+          ^~~~~~
+16:45:06 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp:30:10: warning: missing terminating " character
+  cout << "1234;
+          ^
+..\TimeExample.cpp:30:10: error: missing terminating " character
+  cout << "1234;
+          ^~~~~~
+16:45:08 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:45:10 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:45:15 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:45:18 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:45:38 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:45:39 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:45:44 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:46:02 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp: In function 'int main()':
+..\TimeExample.cpp:18:10: warning: unused variable 't2' [-Wunused-variable]
+  Time t, t2 = {3, 4};
+          ^~
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:46:07 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:46:38 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:46:42 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:47:05 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp: In function 'int main()':
+..\TimeExample.cpp:18:7: warning: variable 't' set but not used [-Wunused-but-set-variable]
+  Time t, t2 = {3, 4};
+       ^
+..\TimeExample.cpp:18:10: warning: unused variable 't2' [-Wunused-variable]
+  Time t, t2 = {3, 4};
+          ^~
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:47:09 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:47:27 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp: In function 'int main()':
+..\TimeExample.cpp:18:7: warning: variable 't' set but not used [-Wunused-but-set-variable]
+  Time t, t2 = {3, 4};
+       ^
+..\TimeExample.cpp:18:10: warning: unused variable 't2' [-Wunused-variable]
+  Time t, t2 = {3, 4};
+          ^~
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:47:31 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:47:44 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp: In function 'int main()':
+..\TimeExample.cpp:18:7: warning: variable 't' set but not used [-Wunused-but-set-variable]
+  Time t, t2 = {3, 4};
+       ^
+..\TimeExample.cpp:18:10: warning: unused variable 't2' [-Wunused-variable]
+  Time t, t2 = {3, 4};
+          ^~
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:47:49 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:47:53 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:48:05 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp: In function 'int main()':
+..\TimeExample.cpp:18:7: warning: variable 't' set but not used [-Wunused-but-set-variable]
+  Time t, t2 = {3, 4};
+       ^
+..\TimeExample.cpp:18:10: warning: unused variable 't2' [-Wunused-variable]
+  Time t, t2 = {3, 4};
+          ^~
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:48:32 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:48:40 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp: In function 'int main()':
+..\TimeExample.cpp:18:7: warning: variable 't' set but not used [-Wunused-but-set-variable]
+  Time t, t2 = {3, 4};
+       ^
+..\TimeExample.cpp:18:10: warning: unused variable 't2' [-Wunused-variable]
+  Time t, t2 = {3, 4};
+          ^~
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:48:50 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:49:00 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:50:06 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:50:07 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:50:19 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file TimeExample.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:50:32 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:50:37 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample
+16:54:30 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+..\TimeExample.cpp: In function 'int main()':
+..\TimeExample.cpp:25:20: error: could not convert '{3, 4}' from '<brace-enclosed initializer list>' to 'Time'
+  Time t, t2 = {3, 4};
+                    ^
+..\TimeExample.cpp:27:4: error: 'int Time::hour' is private within this context
+  t.hour = 12;
+    ^~~~
+..\TimeExample.cpp:19:6: note: declared private here
+  int hour, min;
+      ^~~~
+..\TimeExample.cpp:28:4: error: 'int Time::min' is private within this context
+  t.min  = 30;
+    ^~~
+..\TimeExample.cpp:19:12: note: declared private here
+  int hour, min;
+            ^~~
+16:54:57 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+16:55:27 **** Incremental Build of configuration Debug for project TimeExample ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
+g++ -o TimeExample.exe TimeExample.o 
+Info: Nothing to build for TimeExample

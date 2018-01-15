@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+class Time {
+
+public:
+	void print() {
+		cout << hour << ":" << min;
+	}
+
+	int hour, min;
+} t2;
+
+
+int main(void) {
+
+	Time t = {3, 4};
+
+	t.print();
+
+	return EXIT_SUCCESS;
+}
+
