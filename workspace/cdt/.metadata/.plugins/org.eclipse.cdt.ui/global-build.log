@@ -355,3 +355,212 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o TimeExample.o "..\\TimeExample.cpp" 
 g++ -o TimeExample.exe TimeExample.o 
 Info: Nothing to build for TimeExample
+09:51:54 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o CppTemplate.o "..\\CppTemplate.cpp" 
+g++ -o CppTemplate.exe CppTemplate.o 
+Info: Nothing to build for CppTemplate
+10:07:52 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o CppTemplate.o "..\\..\\..\\CppTemplate.cpp" 
+g++ -o CppTemplate.exe CppTemplate.o 
+Info: Nothing to build for CppTemplate
+10:36:04 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o CppTemplate.o "..\\..\\..\\CppTemplate.cpp" 
+g++ -o CppTemplate.exe CppTemplate.o 
+Info: Nothing to build for CppTemplate
+10:36:28 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o CppTemplate.o "..\\..\\..\\CppTemplate.cpp" 
+g++ -o CppTemplate.exe CppTemplate.o 
+10:41:50 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o CppTemplate.exe Class.o Main.o 
+Main.o: In function `ZN9Rectangle10set_valuesEii':
+E:\ref\CppTemplate\project\cdt\Debug/../../../Main.cpp:106: multiple definition of `Rectangle::set_values(int, int)'
+Class.o:E:\ref\CppTemplate\project\cdt\Debug/../../../Class.cpp:31: first defined here
+collect2.exe: error: ld returned 1 exit status
+10:42:39 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o CppTemplate.exe Class.o Main.o 
+10:42:52 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -o CppTemplate.exe Class.o Main.o 
+10:43:44 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -o CppTemplate.exe Class.o Main.o 
+Info: Nothing to build for CppTemplate
+13:42:57 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o CppTemplate.exe Class.o Main.o 
+Info: Nothing to build for CppTemplate
+13:47:49 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/bin/CppTemplate.exe Class.o Main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file E:/ref/CppTemplate/project/cdt/bin/CppTemplate.exe: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+13:47:59 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+13:48:02 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/bin/CppTemplate.exe Class.o Main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file E:/ref/CppTemplate/project/cdt/bin/CppTemplate.exe: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+13:48:39 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -o E:/ref/CppTemplate/project/cdt/bin/CppTemplate.exe Class.o Main.o 
+13:49:09 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -o E:/ref/CppTemplate/project/cdt/../../bin/CppTemplate.exe Class.o Main.o 
+g++: error: Class.o: No such file or directory
+g++: error: Main.o: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+13:49:18 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -o E:/ref/CppTemplate/project/cdt/../../bin/CppTemplate.exe Class.o Main.o 
+g++: error: Class.o: No such file or directory
+g++: error: Main.o: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+13:49:24 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+13:49:25 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../bin/CppTemplate.exe Class.o Main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file E:/ref/CppTemplate/project/cdt/../../bin/CppTemplate.exe: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+13:49:53 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -o E:/ref/CppTemplate/project/cdt/../../bin/CppTemplate.exe Class.o Main.o 
+g++: error: Class.o: No such file or directory
+g++: error: Main.o: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+13:50:00 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+13:50:01 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../bin/CppTemplate.exe Class.o Main.o 
+13:50:42 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+13:51:05 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+13:51:06 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+13:52:56 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+13:53:09 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+13:53:10 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+13:54:03 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+14:01:53 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+14:02:38 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+14:02:44 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+14:07:55 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+14:07:57 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+Info: Nothing to build for CppTemplate
+Info: Nothing to build for CppTemplate
+14:12:47 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+14:13:23 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+14:13:33 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+14:14:29 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+Info: Nothing to build for CppTemplate
+14:15:19 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+14:15:23 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+14:16:14 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+14:16:22 **** Clean-only build of configuration Debug for project CppTemplate ****
+rm -rf Class.o Main.d CppTemplate.exe Main.o Class.d 
+14:16:23 **** Rebuild of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Class.o "..\\..\\..\\Class.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe: No such file or directory
+collect2.exe: error: ld returned 1 exit status
+14:16:52 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 
+14:17:53 **** Incremental Build of configuration Debug for project CppTemplate ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Main.o "..\\..\\..\\Main.cpp" 
+g++ -o E:/ref/CppTemplate/project/cdt/../../out/cdt/CppTemplate.exe Class.o Main.o 

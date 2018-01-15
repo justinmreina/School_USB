@@ -1,0 +1,44 @@
+/************************************************************************************************************************************/
+/** @file		Main.cpp
+ * 	@brief		x
+ * 	@details	x
+ *
+ *  @author     Justin Reina, Firmware Engineer, Misc. Company
+ *  @created    1/15/18
+ *  @last rev   1/15/18
+ *
+ *
+ * 	@notes		x
+ *
+ * 	@section	Opens
+ * 			none current
+ *
+ * 	@section	Legal Disclaimer
+ * 			All contents of this source file and/or any other related source files are the explicit property of
+ * 			Justin Reina. Do not distribute. Do not copy.
+ */
+/************************************************************************************************************************************/
+#include "globals.h"
+using namespace std;
+
+
+/************************************************************************************************************************************/
+/**	@fcn		int main(void)
+ *  @brief		x
+ *  @details	x
+ */
+/************************************************************************************************************************************/
+int main(void) {
+	Rectangle rect, rectb;
+
+	//Calc
+	rect.set_values (3,4);
+	rectb.set_values (5,6);
+
+	//Print
+	cout << "Xrect area-ish:\t" << rect.area()  << endl;
+	cout << "Xrectb area:\t"    << rectb.area() << endl;
+  
+	return EXIT_SUCCESS;
+}
+
